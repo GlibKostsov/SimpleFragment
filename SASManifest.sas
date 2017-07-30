@@ -12,4 +12,5 @@ proc sql;
 select * from employe
 where nomemp like "S%";
 
-/*Some very very very important information*/
+/*Some very very very important information */
+/*Some very very very important information from desktop app*/
