@@ -1,0 +1,5 @@
+# XML files
+*.xml
+
+# Log files
+*.log
