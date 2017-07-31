@@ -2,3 +2,5 @@ Another really useful option is --pretty.
 This option changes the log output to formats other than the default.
 A few prebuilt options are available for you to use. 
  
+ 
+ This is the second file version.
