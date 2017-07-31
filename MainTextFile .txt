@@ -3,4 +3,8 @@ This option changes the log output to formats other than the default.
 A few prebuilt options are available for you to use. 
  
  
+<<<<<<< HEAD
  That is something to be different in every file. 
+=======
+ This is the first file version. 
+>>>>>>> fix
