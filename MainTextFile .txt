@@ -4,7 +4,11 @@ A few prebuilt options are available for you to use.
  
  
 <<<<<<< HEAD
+<<<<<<< HEAD
  That is something to be different in every file. 
 =======
  This is the first file version. 
 >>>>>>> fix
+=======
+ This is the second file version.
+>>>>>>> fix2
